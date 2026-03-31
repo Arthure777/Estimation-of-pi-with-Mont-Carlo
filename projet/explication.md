@@ -1,6 +1,6 @@
 # Pourquoi ce projet ?
 
-Comme vous le savez, le pi day ($\pi $). J'ai donc voulue estimé la valueur de $\pi$. Et quoi ce mieux pour un passionné de finace que la méthode Mont Carlo.
+Comme vous le savez, le pi day ($\pi $) a eu lieu le 14/03. J'ai donc voulue estimé la valueur de $\pi$. Et quoi ce mieux pour un passionné de finace que la méthode Mont Carlo.
 
 # Quelles outils ?
 
